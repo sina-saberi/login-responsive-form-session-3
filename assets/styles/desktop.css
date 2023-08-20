@@ -1,0 +1,10 @@
+.container {
+    max-width: 900px;
+}
+
+
+.container .intro {
+    display: block;
+    width: 100%;
+    background: url("./../images/login_img02.png") no-repeat center/70% white;
+}
